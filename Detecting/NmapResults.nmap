@@ -1,0 +1,202 @@
+# Nmap 7.50 scan initiated Mon Sep 18 08:48:24 2017 as: nmap -oA NmapResults 146.64.204.48-109
+Nmap scan report for 146.64.204.48
+Host is up (0.00073s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 50:9A:4C:40:74:34 (Dell)
+
+Nmap scan report for 146.64.204.53
+Host is up (0.00075s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: B8:CA:3A:B5:53:68 (Dell)
+
+Nmap scan report for 146.64.204.54
+Host is up (0.00062s latency).
+Not shown: 920 closed ports, 79 filtered ports
+PORT     STATE SERVICE
+3689/tcp open  rendezvous
+MAC Address: 10:DD:B1:B7:15:E5 (Apple)
+
+Nmap scan report for 146.64.204.55
+Host is up (0.00046s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE
+912/tcp  open  apex-mesh
+5000/tcp open  upnp
+5001/tcp open  commplex-link
+5060/tcp open  sip
+5357/tcp open  wsdapi
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 00:1E:4F:EF:E3:A8 (Dell)
+
+Nmap scan report for 146.64.204.59
+Host is up (0.00049s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+8080/tcp open  http-proxy
+MAC Address: D4:BE:D9:44:C6:54 (Dell)
+
+Nmap scan report for 146.64.204.62
+Host is up (0.00020s latency).
+Not shown: 989 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+5357/tcp  open  wsdapi
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49156/tcp open  unknown
+49157/tcp open  unknown
+49160/tcp open  unknown
+MAC Address: 08:00:27:71:B1:81 (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for 146.64.204.70
+Host is up (0.00038s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5357/tcp open  wsdapi
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: F8:CA:B8:3A:CD:69 (Dell)
+
+Nmap scan report for 146.64.204.75
+Host is up (0.00041s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+5357/tcp open  wsdapi
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: A4:4C:C8:CF:16:6D (Dell)
+
+Nmap scan report for 146.64.204.80
+Host is up (0.00029s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 90:B1:1C:90:C0:54 (Dell)
+
+Nmap scan report for 146.64.204.85
+Host is up (0.00046s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+5357/tcp open  wsdapi
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 50:9A:4C:40:76:D8 (Dell)
+
+Nmap scan report for 146.64.204.93
+Host is up (0.00036s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 00:23:AE:7F:63:D6 (Dell)
+
+Nmap scan report for 146.64.204.100
+Host is up (0.00021s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+2492/tcp open  groove
+5357/tcp open  wsdapi
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: F0:1F:AF:1C:7E:7B (Dell)
+
+Nmap scan report for 146.64.204.102
+Host is up (0.00s latency).
+All 1000 scanned ports on 146.64.204.102 are filtered
+MAC Address: 90:B1:1C:92:83:AC (Dell)
+
+Nmap scan report for 146.64.204.104
+Host is up (0.00058s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 34:17:EB:D9:7B:49 (Dell)
+
+Nmap scan report for 146.64.204.105
+Host is up (0.00052s latency).
+Not shown: 984 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+5950/tcp  open  unknown
+8192/tcp  open  sophos
+8193/tcp  open  sophos
+8194/tcp  open  sophos
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49176/tcp open  unknown
+MAC Address: 20:47:47:C2:63:CF (Dell)
+
+Nmap scan report for 146.64.204.106
+Host is up (0.00029s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE
+5950/tcp open  unknown
+8194/tcp open  sophos
+MAC Address: 18:66:DA:0C:9D:2A (Dell)
+
+Nmap scan report for 146.64.204.108
+Host is up (0.00032s latency).
+Not shown: 995 filtered ports
+PORT      STATE SERVICE
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5950/tcp  open  unknown
+8194/tcp  open  sophos
+10243/tcp open  unknown
+MAC Address: 50:9A:4C:40:77:96 (Dell)
+
+Nmap scan report for 146.64.204.89
+Host is up (0.00093s latency).
+Not shown: 982 closed ports
+PORT      STATE SERVICE
+21/tcp    open  ftp
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+1025/tcp  open  NFS-or-IIS
+1026/tcp  open  LSA-or-nterm
+1027/tcp  open  IIS
+1028/tcp  open  unknown
+1029/tcp  open  ms-lsa
+1041/tcp  open  danf-ak2
+3306/tcp  open  mysql
+5950/tcp  open  unknown
+8192/tcp  open  sophos
+8193/tcp  open  sophos
+8194/tcp  open  sophos
+50000/tcp open  ibm-db2
+
+# Nmap done at Mon Sep 18 08:49:23 2017 -- 62 IP addresses (18 hosts up) scanned in 59.28 seconds

@@ -1,0 +1,30 @@
+# Nmap 7.50 scan initiated Thu Sep 21 10:28:18 2017 as: nmap -oA NmapResults 146.64.204.48-109
+Host: 146.64.204.53 ()	Status: Up
+Host: 146.64.204.53 ()	Ports: 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (998)
+Host: 146.64.204.54 ()	Status: Up
+Host: 146.64.204.54 ()	Ports: 3689/open/tcp//rendezvous///	Ignored State: closed (999)
+Host: 146.64.204.55 ()	Status: Up
+Host: 146.64.204.55 ()	Ports: 912/open/tcp//apex-mesh///, 5000/open/tcp//upnp///, 5001/open/tcp//commplex-link///, 5060/open/tcp//sip///, 5357/open/tcp//wsdapi///, 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (993)
+Host: 146.64.204.70 ()	Status: Up
+Host: 146.64.204.70 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 2869/open/tcp//icslap///, 5357/open/tcp//wsdapi///, 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (993)
+Host: 146.64.204.75 ()	Status: Up
+Host: 146.64.204.75 ()	Ports: 5357/open/tcp//wsdapi///, 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (997)
+Host: 146.64.204.80 ()	Status: Up
+Host: 146.64.204.80 ()	Ports: 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (998)
+Host: 146.64.204.93 ()	Status: Up
+Host: 146.64.204.93 ()	Ports: 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (998)
+Host: 146.64.204.100 ()	Status: Up
+Host: 146.64.204.100 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 2492/open/tcp//groove///, 5357/open/tcp//wsdapi///, 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (994)
+Host: 146.64.204.101 ()	Status: Up
+Host: 146.64.204.101 ()	Ports: 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (998)
+Host: 146.64.204.102 ()	Status: Up
+Host: 146.64.204.102 ()	Status: Up
+Host: 146.64.204.104 ()	Status: Up
+Host: 146.64.204.104 ()	Ports: 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (998)
+Host: 146.64.204.106 ()	Status: Up
+Host: 146.64.204.106 ()	Ports: 5950/open/tcp//unknown///, 8194/open/tcp//sophos///	Ignored State: filtered (998)
+Host: 146.64.204.108 ()	Status: Up
+Host: 146.64.204.108 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 554/open/tcp//rtsp///, 2869/open/tcp//icslap///, 3306/open/tcp//mysql///, 5950/open/tcp//unknown///, 8194/open/tcp//sophos///, 10243/open/tcp//unknown///	Ignored State: filtered (992)
+Host: 146.64.204.89 ()	Status: Up
+Host: 146.64.204.89 ()	Ports: 80/open/tcp//http///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 443/open/tcp//https///, 445/open/tcp//microsoft-ds///, 1025/open/tcp//NFS-or-IIS///, 1026/open/tcp//LSA-or-nterm///, 1027/open/tcp//IIS///, 1028/open/tcp//unknown///, 1029/open/tcp//ms-lsa///, 1049/open/tcp//td-postman///, 3306/open/tcp//mysql///, 5950/open/tcp//unknown///, 8192/open/tcp//sophos///, 8193/open/tcp//sophos///, 8194/open/tcp//sophos///, 50000/open/tcp//ibm-db2///	Ignored State: closed (983)
+# Nmap done at Thu Sep 21 10:28:57 2017 -- 62 IP addresses (14 hosts up) scanned in 38.95 seconds
